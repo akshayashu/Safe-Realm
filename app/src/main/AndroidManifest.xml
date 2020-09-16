@@ -2,6 +2,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.safeside">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -9,9 +13,18 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Setup.SignInActivity"></activity>
-        <activity android:name=".Setup.SignUpActivity" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".SubActivities.ChangePasswordActivity"></activity>
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyB_Lk0fBkNL9gZ_dHZ9MsgZUy-r32l0rlY" />
+
+        <activity android:name=".com.example.safeside.MainScreen" />
+        <activity android:name=".Setup.InfoThird" />
+        <activity android:name=".Setup.InfoSecond" />
+        <activity android:name=".Setup.InfoFirst" />
+        <activity android:name=".Setup.SignInActivity" />
+        <activity android:name=".Setup.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

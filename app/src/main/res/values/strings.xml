@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Safe Side</string>
+    <string name="app_name">Safe Realm</string>
+    <string name="info1">Let others also know about place which are unsafe by marking your location as Red Zone.</string>
+    <string name="info2">Let the cops know about your vulnerability by sending a alert message just by shaking your phone.</string>
+    <string name="info3">You can share information regarding a particular location where you already have been.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="article_body">We can not only share our incident or accident but also we can also share something good about a place. Lets make this world happy and a safe place to live in. Spread happiness and awareness as well.\n\n#SaveLifes #AwesomeApp #BeAHelpingHand</string>
 </resources>
