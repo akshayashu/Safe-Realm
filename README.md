@@ -1,5 +1,11 @@
 # Safe-Realm - Android App
 
+Please have a look on the video of this app. Follow the link
+
+https://www.linkedin.com/posts/akshay-khanna-972280193_android-security-appdevelopment-activity-6702651902405996546-mhVW/
+
+## Description
+
 We all are familiar with how unsafe is it to travel to a place which is unknown to us, where we've no idea about the road condition, the crime rate over the place if an ongoing protest or mob is being carried out there. At that time we need to mark down those places and highlight those places for others to know whether the road we're on leads to a safe place or through a SAFE REALM. 
 So here I came up with an idea where we can mark our location as a red zone with the ongoing type of issue. Also, we can narrate our experience with the help of an article describing mischief activities around a location or maybe praising the community/society for being supportive. This will not only help citizens to be aware but will also help our administrative officials to be more certain about those places.
 
